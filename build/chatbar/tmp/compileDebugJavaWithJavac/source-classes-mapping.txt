@@ -1,0 +1,4 @@
+com/example/chatbar/ChatbarPlugin.java
+ com.example.chatbar.ChatbarPlugin
+com/example/chatbar/BuildConfig.java
+ com.example.chatbar.BuildConfig
